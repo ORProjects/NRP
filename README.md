@@ -12,6 +12,8 @@ This is just to try and see :large_orange_diamond: :small_orange_diamond::clock2
 
 [ButThis](asdf.docx){:target="_blank"}
 
+[Link](asdf.docx "title" target="_blank")
+
 asdfasdfsadf
 ## Well Well Well
 
