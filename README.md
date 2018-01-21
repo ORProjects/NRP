@@ -1,4 +1,4 @@
-[HOME](README.md) | [SUB-FOLDER](Instances\README.md)
+[HOME](README.md) | [SUB-FOLDER](Instances/README.md)
 ------------ | -------------
 
 
