@@ -8,4 +8,4 @@ oh well
 
 ### Welcome
 
-[[https://github.com/ORProjects/Trial/blob/master/DEUFBEIE.png|alt=octocat]]
+[[https://github.com/ORProjects/Trial/blob/master/DEUFBEIE.png]]
