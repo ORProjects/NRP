@@ -6,7 +6,7 @@
 @aykutmelih
 This is just to try and see :large_orange_diamond: :small_orange_diamond::clock2:
 
-[ThisFile](https://github.com/ORProjects/Trial/blob/master/asdf.docx)
+[ThisFile](asdf.docx)
 
 asdfasdfsadf
 ## Well Well Well
