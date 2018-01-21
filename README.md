@@ -1,7 +1,9 @@
 # Welcome to the Trial wiki!
 
 @aykutmelih
-This is just to try and see
+This is just to try and see :large_orange_diamond: :small_orange_diamond::clock2:
+
+/play guarantee
 
 ## Well Well Well
 
