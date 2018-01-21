@@ -10,6 +10,8 @@ This is just to try and see :large_orange_diamond: :small_orange_diamond::clock2
 
 <a href="asdf.docx" target="_blank">Hello, world!</a>
 
+[ButThis](asdf.docx){:target="_blank"}
+
 asdfasdfsadf
 ## Well Well Well
 
