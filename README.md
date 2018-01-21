@@ -3,8 +3,7 @@
 @aykutmelih
 This is just to try and see :large_orange_diamond: :small_orange_diamond::clock2:
 
-/play guarantee
-
+asdfasdfsadf
 ## Well Well Well
 
 oh well
