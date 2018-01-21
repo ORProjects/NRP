@@ -1,5 +1,6 @@
 [Guidelines](Instances/README.md)
 
+<a href="https://www.w3schools.com" target="_blank">Visit W3Schools.com!</a> 
 
 # Welcome to the Trial wiki!
 
