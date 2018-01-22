@@ -1,4 +1,4 @@
-[OVERVIEW](README.md) | [INSTANCES](Instances/README.md)                                                                                 
+[OVERVIEW](/) | [INSTANCES](Instances/README.md)                                                                                 
 ------------ | -------------
 
 PROBLEM OVERVIEW
