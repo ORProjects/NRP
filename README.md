@@ -1,7 +1,7 @@
-[HOME](README.md) | [SUB-FOLDER](Instances/README.md)                                                                                 
+[OVERVIEW](README.md) | [INSTANCES](Instances/README.md)                                                                                 
 ------------ | -------------
 
-HOME PAGE
+PROBLEM OVERVIEW
 ====================
 
 
