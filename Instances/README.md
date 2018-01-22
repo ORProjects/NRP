@@ -1,4 +1,4 @@
-[HOME](/README.md) | [SUB-FOLDER](README.md)
+[HOME](master/README.md) | [SUB-FOLDER](master/Instances/README.md)
 --- | ----
 
 # Welcome to the Trial wiki!
