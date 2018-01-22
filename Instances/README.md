@@ -1,7 +1,7 @@
-[HOME](/README.md) | [SUB-FOLDER](README.md)
+[OVERVIEW](/README.md) | [INSTANCES](README.md)
 --- | ----
 
-SUB PAGE
+PROBLEM INSTANCES
 ====================
 
 # Welcome to the Trial wiki!
