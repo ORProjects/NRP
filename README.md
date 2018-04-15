@@ -1,7 +1,7 @@
 [ABSTRACT](/README.md) | [OVERVIEW](Instances/README.md)  | [SOLUTION APPROACH](Instances/README.md)  | [INSTANCES](Instances/README.md)  | [COMPUTATIONAL RESULTS](Instances/README.md) 
 ------------- | ------------- | ------------- | ------------- | -------------
 
-`ABSTRACT`
+ABSTRACT
 ====================
 
 A hybrid mixed integer programming based heuristics and simulated annealing approach for solving nurse rostering problems
