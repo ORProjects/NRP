@@ -7,7 +7,7 @@ PROBLEM OVERVIEW
 
 [Guidelines](Instances/README.md)
 
-<a target="_self" href="https://www.w3schools.com/">Visit W3Schools.com!</a>
+<a target="_new" href="https://www.w3schools.com/">Visit W3Schools.com!</a>
 
 <a onclick="window.open(this.href,'_blank');return false;" href="https://www.w3schools.com/">Some Other Site</a>
 
