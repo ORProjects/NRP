@@ -9,11 +9,8 @@ PROBLEM OVERVIEW
 
 <a target="_blank" href="https://www.w3schools.com/">Visit W3Schools.com!</a>
 
-<a href="#" onclick='window.open("https://www.w3schools.com/");return false;'>aaa</a>
+<a onclick="window.open(this.href,'_blank');return false;" href="https://www.w3schools.com/">Some Other Site</a>
 
-<a onclick="window.open ('http://www.foracure.org.au', ''); return false" href="javascript:void(0);">1111</a>
-
-<a href="#" onClick={()=>window.open("https://www.w3schools.com/")}>aasdf</a>
 
 # Welcome to the Trial wiki!
 
