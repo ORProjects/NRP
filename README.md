@@ -1,4 +1,4 @@
-[ABSTRACT](/README.md) | [OVERVIEW](Instances/README.md)  | [OVERVIEW](Instances/README.md)  | [OVERVIEW](Instances/README.md)  | [OVERVIEW](Instances/README.md) 
+[ABSTRACT](/README.md) | [OVERVIEW](Instances/README.md)  | [SOLUTION APPROACH](Instances/README.md)  | [INSTANCES](Instances/README.md)  | [COMPUTATIONAL RESULTS](Instances/README.md) 
 ------------ | ------------- | ------------- | ------------- | -------------
 
 PROBLEM OVERVIEW
