@@ -7,8 +7,7 @@ PROBLEM OVERVIEW
 
 [Guidelines](Instances/README.md)
 
-<a href="https://www.w3schools.com" target="_blank">Visit W3Schools.com!</a> 
-[link](https://www.w3schools.com){:target="_blank"}
+<a href="https://www.w3schools.com" target='_blank'>Visit W3Schools.com!</a>
 
 # Welcome to the Trial wiki!
 
