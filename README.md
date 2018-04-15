@@ -9,7 +9,8 @@ PROBLEM OVERVIEW
 
 <a target="_new" href="https://www.w3schools.com/">Visit W3Schools.com!</a>
 
-<a onclick="window.open(this.href,'_blank');return false;" href="https://www.w3schools.com/">Some Other Site</a>
+<a href="http://chriscoyier.net" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">This link will open in new window/tab</a>
+
 
 
 # Welcome to the Trial wiki!
