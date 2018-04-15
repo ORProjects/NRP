@@ -13,6 +13,8 @@ PROBLEM OVERVIEW
 
 <a onclick="window.open ('http://www.foracure.org.au', ''); return false" href="javascript:void(0);">1111</a>
 
+<a href="#" onClick={()=>window.open("https://www.w3schools.com/")}</a>
+
 # Welcome to the Trial wiki!
 
 @aykutmelih
