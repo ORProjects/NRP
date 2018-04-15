@@ -4,135 +4,21 @@
 PROBLEM OVERVIEW
 ====================
 
-
-[Guidelines](Instances/README.md)
-
-<a target="_blank" href="https://www.w3schools.com/">Visit W3Schools.com!</a>
-
-# Welcome to the Trial wiki!
-
-@aykutmelih
-This is just to try and see :large_orange_diamond: :small_orange_diamond::clock2:
-
-[ThisFile](asdf.docx)
-
-<a href="asdf.docx" target="_blank">Hello, world!</a>
-
-[ButThis](asdf.docx){:target="_blank"}
-
-[Link](asdf.docx "title" target="_blank")
-
-asdfasdfsadf
-## Well Well Well
-
-oh well
-
-### Welcome
-
-![alt text](https://github.com/ORProjects/Trial/blob/master/DEUFBEIE.png)
-
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
-   
-#
-
-*This text will be italic*
-_This will also be italic_
-
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_
-
-
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
-
-[GitHub](http://github.com)
-
-
-
-As Kanye West said:
-
-> We're living the future so
-> the present is our past.
-
-I think you should use an
-`<addr>` element here instead.
-
-
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
-
- 
-
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
-
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:
-
-
-A First Level Header
+A hybrid mixed integer programming based heuristics and simulated annealing approach for solving nurse rostering problems
 ====================
+Aykut Melih Turhanᵃ, Bilge Bilgenᵇ*
 
-A Second Level Header
----------------------
+ᵃ Department of Industrial Engineering, The Graduate School of Natural and Applied Sciences, Dokuz Eylul University, Tinaztepe Campus, Buca, 35160 Izmir, Turkey
 
-
-
-
+ᵇ Department of Industrial Engineering, Dokuz Eylul University, Tinaztepe Campus, Buca, 35160 Izmir, Turkey
 
 
 
+Abstract
+====================
+<p align="justify">The Nurse Rostering Problem (NRP) is a complex scheduling problem in which nurses must be assigned to shifts according to a set of constraints. The NRP is difficult to solve to optimality due to its combinatorial structure. In this paper, we propose a hybrid solution algorithm that combines Mixed Integer Programming (MIP) based heuristics—namely Fix-and-Relax (F&R) and Fix-and-Optimize (F&O)—and Simulated Annealing (SA) to solve the NRP. In MIP-based heuristics, a problem is decomposed into a set of smaller problems and each problem is iteratively solved to optimality. In the hybrid approach, high-quality initial solutions are obtained via the F&R algorithm and fed to the SA part of the algorithm. When solutions can no longer be improved, the F&O algorithm is inserted into the SA algorithm. This enables the hybrid algorithm to diversify the search space and provide better solutions. To assess the quality and efficiency of the hybrid approach, we use 24 publicly available test instances recently introduced in literature in the field. Computational results show that the hybrid method outperforms other advanced solution techniques in most of the test data and seven new best-known results are reported.</p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**Keywords:**
+OR In Health Care, Nurse Rostering Problem, Fix-And-Relax, Fix-And-Optimize, Simulated Annealing
+***Corresponding author. Tel.**: +90 232 301 7615; **Fax**: +90 232 301 7608.
+**E-mail address**: bilge.bilgen@deu.edu.tr.
