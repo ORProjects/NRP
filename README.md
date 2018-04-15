@@ -9,6 +9,8 @@ PROBLEM OVERVIEW
 
 <a href="https://www.w3schools.com/" target="_blank">Visit W3Schools.com!</a>
 
+<a href="#" onclick='window.open("https://www.w3schools.com/");return false;'>aaa</a>
+
 # Welcome to the Trial wiki!
 
 @aykutmelih
