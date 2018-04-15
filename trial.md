@@ -9,6 +9,8 @@ PROBLEM OVERVIEW
 
 <a target="_blank" href="https://www.w3schools.com/">Visit W3Schools.com!</a>
 
+Visit https://www.w3schools.com
+
 # Welcome to the Trial wiki!
 
 @aykutmelih
