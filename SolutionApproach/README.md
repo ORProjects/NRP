@@ -3,3 +3,4 @@
 
 `SOLUTION APPROACH`
 ====================
+![alt text](https://github.com/ORProjects/Trial/blob/master/SolutionApproach/Images/OverallAlgorithm.PNG)
