@@ -62,3 +62,7 @@
 ## Final Schedules
 
 <p align="justify">In this section, we present the final resulting schedules we have obtained by applying the hybrid algorithm for transparecy and validation purposes. As discussed, final schedules are printed to Excel files.</p>
+
+  #### *Instance 1 - 607*
+  
+  ![alt text](https://github.com/ORProjects/Trial/blob/master/ComputationalResults/Images/Solution1_607.PNG)
