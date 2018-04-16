@@ -10,16 +10,12 @@
 
 1. ### Initial Solution Generation Phase
    
-   In this phase, instances are examined and decomposition decisions are made. For smaller instances, generally week decomposition is used. For larger instances, nurse decomposition is utilized.
+   In this phase, instances are examined and decomposition decisions are made. For smaller instances, generally week decomposition is used. For larger instances, we use nurse decomposition.
 
 1. ### Improvement Phase
-   1. A nurse can only have one shift per day.
-
-
-
-
-
-
+   In this phase, the SA algorithm plays the central role and starts improving the initial solution by applying various neighborhoods. Better cost values are immediately accepted and worse ones are accepted in a probabilistic manner. What makes our implementation unique in this step is that when solutions can no longer be improved by applying these neighborhoods, the current schedule is send to the F&O algorithm and the power of integer programming solvers are utilized to further improve the solution. Even when the solution from the F&O heuritic is worse than the current solution due to time limits, it would still be valuable schedule because its earlier structure would be changed. This new structure re-enables the effectiveness of the neighborhoods and the SA algorithm continues to improve.
+   
+   When termination criterion is met, the result is reported and written to an Excel file. Below diagram shows the complete picture.
 
 </p>
 
@@ -27,6 +23,8 @@
 
 ## Neighborhoods
 
-<p align="justify">Personnel scheduling is not a new area of study for the Operations Research community. It has been studied since 1950s. But Today's problem is fairly different than its original version. Planners must consider many elements before developing a schedule. Employees have part-time and full-time opportunities. Planners must also account for employees' preferences in this planning process.</p>
+<p align="justify">The SA part of the hybrid algorithm utilizes a variety of neighborhoods as shown below. Nurses, days, and shifts are randomly selected and swithed between eachother to generate different schedules. We propose a new neighborhood (Shift-On) where a shift is added to an off-day. The rest of the neighborhood are commonly found in the literature.
+
+</p>
 
 ![alt text](https://github.com/ORProjects/Trial/blob/master/SolutionApproach/Images/Neighborhoods.png)
