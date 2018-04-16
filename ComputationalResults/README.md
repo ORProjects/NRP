@@ -5,7 +5,7 @@
 ====================
 ## Comparison Between Studies
 
-<p align="justify">Below table summarizes the scores between studies in the literature. Highlighted scores are the new best-known results we report in this study.
+<p align="justify">Below table summarizes the scores between studies in the literature. Bold and highlighted scores are the new best-known results we report in this study.
   
   #### *10-minute runtime*
   
@@ -18,7 +18,7 @@
   Instance 05 | 1,143 | 1,439 | 1,143 | 1,143
   Instance 06 | 1,950 | 2,344 | 1,950 | 1,950
   Instance 07 | 1,056 | 1,284 | 1,056 | 1,056
-  Instance 08 | 1,364 | 2,529 | 8,995 | **`1,341`**
+  Instance 08 | 1,364 | 2,529 | 8,995 | **1,341**
   Instance 09 | 439 | 474 | 439 | 439
   Instance 10 | 4,631 | 4,999 | 4,631 | 4,631
   Instance 11 | 3,443 | 3,967 | 3,443 | 3,443
