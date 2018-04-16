@@ -101,7 +101,7 @@
   
   #### *Instance 10 - 4631*
   
-  ![alt text](https://github.com/ORProjects/Trial/blob/master/ComputationalResults/Images/Solution10_4631.PNG)
+  ![alt text](https://github.com/ORProjects/Trial/blob/master/ComputationalResults/Images/Solution10_4631.png)
   
   #### *Instance 11 - 3443*
   
