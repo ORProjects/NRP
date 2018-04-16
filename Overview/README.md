@@ -19,7 +19,7 @@
 
 ## The NRP Model Characteristics
 
-<p align="justify">The model has hard constraints (HC) and soft constraints (SC). HCs are those that must be satisfied to obtain feasible schedules. SCs can be violated with a cost of penalties.</p>
+<p align="justify">The model has hard constraints (HC) and soft constraints (SC). HCs are those that must be satisfied to obtain feasible schedules. SCs can be violated with a cost of penalties. SCs are evaluated in the objective function and the quality of a schedule is defined by the number of satisfied SCs.</p>
 
 1. ### Hard Constraints
    1. A nurse can only have one shift per day.
@@ -32,8 +32,10 @@
    1. Nurses cannot be assigned weekent shift more than the limits in their contracts.
    1. A shift cannot be assigned to a nurse if that day is a vacation day for the nurse.
 1. ### Soft Constraints
-   1. It is ideal
-   1. Item 3b
+   1. Assigning shifts nurses do not want will result in penalties.
+   1. Not assigning shift nurses want will result in penalties.
+   1. If total number of nurses on a specific day is less than needed, penalty will be incurred (Under-staffing).
+   1. If total number of nurses on a specific day is more than needed, penalty will be incurred (Over-staffing).
 
 ## Main References
 
