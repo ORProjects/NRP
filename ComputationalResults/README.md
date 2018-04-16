@@ -95,7 +95,7 @@
   
   ![alt text](https://github.com/ORProjects/Trial/blob/master/ComputationalResults/Images/Solution8_1341.PNG)
   
-  #### *Instance 8 - Verification with the Roster Software - 1341*
+  #### *Instance 8 - Verification with the Roster Software - 1341* - Visit http://www.staffrostersolutions.com/ for more information!!!
   
   ![alt text](https://github.com/ORProjects/Trial/blob/master/ComputationalResults/Images/Solution8_1341_Verify.png)
   
