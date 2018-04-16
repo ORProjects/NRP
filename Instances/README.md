@@ -5,9 +5,9 @@
 ====================
 ## Publicly Available Data Sets
 
-<p align="justify"> The reader is referred to the following web site for more information on the instances: <a target="_blank" href="http://www.schedulingbenchmarks.org/">Employee Shift Scheduling Benchmark Data Sets</a>
+<p align="justify">The reader is referred to the following web site for more information on the instances: <a target="_blank" href="http://www.schedulingbenchmarks.org/">Employee Shift Scheduling Benchmark Data Sets</a></p>
 
-Main characteristics of the instances are summarized in the below table.
+<p align="justify">Main characteristics of the instances are summarized in the below table. Instances 1-7 are relatively smaller problems. Starting from instance 8, problem sizes and complexities increase. The number of nurse requests has a direct effect on the problem size.</p>
 
 Instance | Days | Nurses | Shifts | Day-off Requests | Shift-on/off Requests
 --- | --- | --- | --- | --- | --- | 
