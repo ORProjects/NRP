@@ -5,4 +5,4 @@
 ====================
 ## Publicly Available Data Sets
 
-<p align="justify"> The reader is referred to the following web site for more information on the instances: <a target="_blank" href="https://www.w3schools.com/">Visit W3Schools.com!</a></p>
+<p align="justify"> The reader is referred to the following web site for more information on the instances: <a target="_blank" href="http://www.schedulingbenchmarks.org/">Employee Shift Scheduling Benchmark Data Sets</a></p>
