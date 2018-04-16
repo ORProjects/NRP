@@ -66,3 +66,63 @@
   #### *Instance 1 - 607*
   
   ![alt text](https://github.com/ORProjects/Trial/blob/master/ComputationalResults/Images/Solution1_607.PNG)
+  
+  #### *Instance 2 - 828*
+  
+  ![alt text](https://github.com/ORProjects/Trial/blob/master/ComputationalResults/Images/Solution2_828.PNG)
+  
+  #### *Instance 3 - 1001*
+  
+  ![alt text](https://github.com/ORProjects/Trial/blob/master/ComputationalResults/Images/Solution3_1001.PNG)
+  
+  #### *Instance 4 - 1716*
+  
+  ![alt text](https://github.com/ORProjects/Trial/blob/master/ComputationalResults/Images/Solution4_1716.PNG)
+  
+  #### *Instance 5 - 1143*
+  
+  ![alt text](https://github.com/ORProjects/Trial/blob/master/ComputationalResults/Images/Solution5_1143.PNG)
+  
+  #### *Instance 6 - 1950*
+  
+  ![alt text](https://github.com/ORProjects/Trial/blob/master/ComputationalResults/Images/Solution6_1950.PNG)
+  
+  #### *Instance 7 - 1056*
+  
+  ![alt text](https://github.com/ORProjects/Trial/blob/master/ComputationalResults/Images/Solution7_1056.PNG)
+  
+  #### *Instance 8 - 1341*
+  
+  ![alt text](https://github.com/ORProjects/Trial/blob/master/ComputationalResults/Images/Solution8_1341.PNG)
+  
+  #### *Instance 9 - 439*
+  
+  ![alt text](https://github.com/ORProjects/Trial/blob/master/ComputationalResults/Images/Solution9_439.PNG)
+  
+  #### *Instance 10 - 4631*
+  
+  ![alt text](https://github.com/ORProjects/Trial/blob/master/ComputationalResults/Images/Solution10_4631.PNG)
+  
+  #### *Instance 11 - 3443*
+  
+  ![alt text](https://github.com/ORProjects/Trial/blob/master/ComputationalResults/Images/Solution11_3443.PNG)
+    
+  #### *Instance 14 - 1295*
+  
+  ![alt text](https://github.com/ORProjects/Trial/blob/master/ComputationalResults/Images/Solution14_1295.PNG)
+  
+  #### *Instance 16 - 3253*
+  
+  ![alt text](https://github.com/ORProjects/Trial/blob/master/ComputationalResults/Images/Solution16_3253.PNG)
+  
+  #### *Instance 17 - 6138*
+  
+  ![alt text](https://github.com/ORProjects/Trial/blob/master/ComputationalResults/Images/Solution17_6138.PNG)
+  
+  #### *Instance 18 - 5000*
+  
+  ![alt text](https://github.com/ORProjects/Trial/blob/master/ComputationalResults/Images/Solution18_5000.PNG)
+  
+  #### *Instance 19 - 3809*
+  
+  ![alt text](https://github.com/ORProjects/Trial/blob/master/ComputationalResults/Images/Solution19_3809.PNG)
