@@ -109,20 +109,20 @@
     
   #### *Instance 14 - 1295*
   
-  ![alt text](https://github.com/ORProjects/Trial/blob/master/ComputationalResults/Images/Solution14_1295.PNG)
+  ![alt text](https://github.com/ORProjects/Trial/blob/master/ComputationalResults/Images/Solution14_1295.png)
   
   #### *Instance 16 - 3253*
   
-  ![alt text](https://github.com/ORProjects/Trial/blob/master/ComputationalResults/Images/Solution16_3253.PNG)
+  ![alt text](https://github.com/ORProjects/Trial/blob/master/ComputationalResults/Images/Solution16_3253.png)
   
   #### *Instance 17 - 6138*
   
-  ![alt text](https://github.com/ORProjects/Trial/blob/master/ComputationalResults/Images/Solution17_6138.PNG)
+  ![alt text](https://github.com/ORProjects/Trial/blob/master/ComputationalResults/Images/Solution17_6138.png)
   
   #### *Instance 18 - 5000*
   
-  ![alt text](https://github.com/ORProjects/Trial/blob/master/ComputationalResults/Images/Solution18_5000.PNG)
+  ![alt text](https://github.com/ORProjects/Trial/blob/master/ComputationalResults/Images/Solution18_5000.png)
   
   #### *Instance 19 - 3809*
   
-  ![alt text](https://github.com/ORProjects/Trial/blob/master/ComputationalResults/Images/Solution19_3809.PNG)
+  ![alt text](https://github.com/ORProjects/Trial/blob/master/ComputationalResults/Images/Solution19_3809.png)
