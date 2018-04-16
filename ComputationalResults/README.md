@@ -58,3 +58,7 @@
   >  Ejection Chain, Gurobi, and B&P by Curtois and Qu (2014)
   
   >  IP&VNS Hybrid by Rahimian et al. (2017)
+
+## Final Schedules
+
+<p align="justify">In this section, we present the final resulting schedules we have obtained by applying the hybrid algorithm for transparecy and validation purposes. As discussed, final schedules are printed to Excel files.</p>
