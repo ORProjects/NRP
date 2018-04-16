@@ -5,7 +5,7 @@
 ====================
 ## Comparison Between Studies
 
-<p align="justify">T </p>
+<p align="justify">Below table summarizes the scores between studies in the literature. Highlighted scores are the new best-known results we report in this study.</p>
 
 Instances | IP&VNS Hybrid | Ejection Chain | Gurobi | Our Study | IP&VNS Hybrid | Ejection Chain | Gurobi | B&P | Our Study
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
@@ -16,7 +16,7 @@ Ins. 04 | 1,716 | 1,719 | 1,716 | 1,716 | 1,716 | 1,718 | 1,716 | 1,716 | 1,716
 Ins. 05 | 1,143 | 1,439 | 1,143 | 1,143 | 1,143 | 1,358 | 1,143 | 1,160 | 1,143
 Ins. 06 | 1,950 | 2,344 | 1,950 | 1,950 | 1,950 | 2,258 | 1,950 | 1,952 | 1,950
 Ins. 07 | 1,056 | 1,284 | 1,056 | 1,056 | 1,056 | 1,269 | 1,056 | 1,058 | 1,056
-Ins. 08 | 1,364 | 2,529 | 8,995 | 1,341 | 1,344 | 2,260 | 1,323 | 1,308 | 1,322
+Ins. 08 | 1,364 | 2,529 | 8,995 | `1,341` | 1,344 | 2,260 | 1,323 | 1,308 | `1,322`
 Ins. 09 | 439 | 474 | 439 | 439 | 439 | 463 | 439 | 439 | 439
 Ins. 10 | 4,631 | 4,999 | 4,631 | 4,631 | 4,631 | 4,797 | 4,631 | 4,631 | 4,631
 Ins. 11 | 3,443 | 3,967 | 3,443 | 3,443 | 3,443 | 3,661 | 3,443 | 3,443 | 3,443
