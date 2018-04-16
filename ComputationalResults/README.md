@@ -7,7 +7,7 @@
 
 <p align="justify">Below table summarizes the scores between studies in the literature. Highlighted scores are the new best-known results we report in this study.
   
-  ### 10-minute runtime
+  #### *10-minute runtime*
   
   Instances | IP&VNS Hybrid | Ejection Chain | Gurobi | Our Study
   --- | --- | --- | --- | --- 
@@ -31,8 +31,6 @@
   Instance 18 | 5,049 | 6,404 | 7,950 | 5,000
   Instance 19 | 3,974 | 6,522 | 29,968 | 3,809
 
-
-  
-  1. ### 60-minute runtime
+  #### *60-minute runtime*
   
   
