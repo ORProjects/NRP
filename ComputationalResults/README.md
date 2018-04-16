@@ -5,7 +5,7 @@
 ====================
 ## Comparison Between Studies
 
-<p align="justify">Below table summarizes the scores between studies in the literature. Bold and highlighted scores are the new best-known results we report in this study.
+<p align="justify">Below table summarizes scores between studies in the literature. Bold and highlighted scores are the new best-known results we report in this study. The hybrid algorithm mainly outperforms the Ejection Chain, Gurobi, and Branch & Price algorithms. The IP & VNS Hybrid is also a powerful algorithm as seen in the tables.
   
   #### *10-minute runtime*
   
