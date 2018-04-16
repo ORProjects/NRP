@@ -95,6 +95,10 @@
   
   ![alt text](https://github.com/ORProjects/Trial/blob/master/ComputationalResults/Images/Solution8_1341.PNG)
   
+  #### *Instance 8 - Verification with the Roster Software - 1341*
+  
+  ![alt text](https://github.com/ORProjects/Trial/blob/master/ComputationalResults/Images/Solution8_1341_Verify.png)
+  
   #### *Instance 9 - 439*
   
   ![alt text](https://github.com/ORProjects/Trial/blob/master/ComputationalResults/Images/Solution9_439.PNG)
