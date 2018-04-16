@@ -55,5 +55,6 @@
   Instance 18 | 4,662 | 6,404 | 4,760 | – | **`4,650`**
   Instance 19 | 3,224 | 5,531 | 5,420 | – | **`3,218`**
 
-    >  Ejection Chain, Gurobi, and B&P by Curtois and Qu (2014)
-    >  IP&VNS Hybrid by Rahimian et al. (2017)
+  >  Ejection Chain, Gurobi, and B&P by Curtois and Qu (2014)
+  
+  >  IP&VNS Hybrid by Rahimian et al. (2017)
