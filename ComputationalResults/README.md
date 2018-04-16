@@ -7,7 +7,7 @@
 
 <p align="justify">T </p>
 
-Instance | IP&VNS Hybrid | Ejection Chain | Gurobi | Our Study | IP&VNS Hybrid | Ejection Chain | Gurobi | B&P | Our Study
+Instances | IP&VNS Hybrid | Ejection Chain | Gurobi | Our Study | IP&VNS Hybrid | Ejection Chain | Gurobi | B&P | Our Study
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
 Ins. 01 | 607 | 607 | 607 | 607 | 607 | 607 | 607 | 607 | 607
 Ins. 02 | 828 | 923 | 828 | 828 | 828 | 837 | 828 | 828 | 828
